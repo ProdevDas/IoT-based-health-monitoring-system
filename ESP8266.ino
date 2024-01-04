@@ -2,13 +2,13 @@
 #include "secrets.h"
 #include "ThingSpeak.h" // always include thingspeak header file after other header files and custom macros
 
-char ssid[] = "realme_9_Pro_5G";   // your network SSID (name) 
-char pass[] = "8472037351";   // your network password
+char ssid[] = "***********";   // your network SSID (name) 
+char pass[] = "***********";   // your network password
 int keyIndex = 0;            // your network key Index number (needed only for WEP)
 WiFiClient  client;
 
-unsigned long myChannelNumber = 2383593;
-const char * myWriteAPIKey = "H0WQ6VO5SDOFVV4J";
+unsigned long myChannelNumber = ***********;
+const char * myWriteAPIKey = "***********";
 
 // Initialize our values
 float h=0;

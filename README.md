@@ -1,2 +1,13 @@
 # IoT-based-health-monitoring-system
 IoTbased patient health monitoring system using Arduino and generic ESP8266. The proposed project can collect and send patient’s health data.
+
+Introduction:
+In this health monitoring system, IoT technology is employed to utilize Arduino and the generic ESP8266 module. The given project aims to efficiently gather and transmit essential health information of patients.
+The term 'IoT-based patient health monitoring system' includes medical devices with internet capabilities designed to measure various health parameters of a connected patient. These parameters may include heartbeat, body temperature, blood pressure, ECG, steps taken, and more. The equipment is equipped to record, transmit, and issue alerts in the event of any sudden changes in the patient's health.
+The application of an IoT-based health monitoring system is particularly beneficial when the patient and healthcare experts are situated in distinct locations. For instance, a patient can remain in the comfort of their home, maintaining their daily routine, while a doctor remotely monitors their health. By analysing the received data, the healthcare professional can prescribe optimal treatment or take immediate action in the event of an emergency.
+
+Concept of IOT based health monitoring System:
+The implementation of an IoT-based health monitoring system utilizing ThingSpeak constitutes a project that integrates diverse sensors and devices to collect and analyse an individual's health data. ThingSpeak, serving as an open-source IoT platform, offers a user-friendly interface for the seamless collection, analysis, and visualization of data from various IoT devices.
+This system can be configured to oversee diverse health parameters, including heart rate and body temperature. The information captured by the sensors can be wirelessly transmitted to a ThingSpeak channel through a Wi-Fi module, such as the ESP8266. Subsequently, the data can undergo analysis using MATLAB or other programming languages compatible with ThingSpeak.
+The ThingSpeak platform offers visualization tools that facilitate the creation of charts, graphs, and other visual representations based on the health data. This capability aids in monitoring an individual's progress and gaining valuable insights into their health patterns.
+Overall, an IoT-based health monitoring system utilizing ThingSpeak presents a general approach to overseeing an individual's well-being. It facilitates the early identification of health issues, allowing for timely intervention and, consequently, enhancing the overall quality of life.
